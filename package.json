@@ -1,6 +1,6 @@
 {
   "name": "best-sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,15 @@
     "type": "git",
     "url": "git+https://github.com/agniswarm/best-sort.git"
   },
-  "keywords": [],
+  "keywords": [
+    "sorting",
+    "sort",
+    "bubble",
+    "selection",
+    "algorithm",
+    "quick",
+    "insertion"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
